@@ -12,7 +12,19 @@ A simple and interactive quiz app built using HTML, CSS, and JavaScript. Users c
 - Clean and responsive user interface
 
 ## 📸 Preview
+   MAIN WINDOW!
+   
+![Quiz App Screenshot](main.png.png) 
 
+
+ QUIZ WINDOW!
+ 
+![Quiz App Screenshot](quiz.png.png) 
+
+
+RESULT WINDOW!
+
+![Quiz App Screenshot](result.png.png) 
 
 
 ## 🛠️ Technologies Used
